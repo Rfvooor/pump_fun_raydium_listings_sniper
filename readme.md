@@ -14,6 +14,8 @@ For any questions:
 TG: https://t.me/+GwZPCWSKElxjNjY5 or DM me @rfvooor 
 Twitter: https://x.com/rfvoooor
 
+For further questions/documentation on what some of the settings are, read thru [the warp readme](https://github.com/warp-id/solana-trading-bot)
+
 ## Obtain bot equipment (5 mins)
 Get a VM (virtual machine) from a provider such as AWS, Google, Heroku, Digital Ocean.
 Many of these platforms provide free sign-up credits and so there shouldn't be costs related to this for a while.
